@@ -1,2 +1,2 @@
 ## Welcome 👋
-[![Codwears badge](https://www.codewars.com/users/maksicode/badges/micro)](https://www.codewars.com/users/maksicode)
+[![Codwears badge](https://www.codewars.com/users/maksicode/badges/large)](https://www.codewars.com/users/maksicode)
